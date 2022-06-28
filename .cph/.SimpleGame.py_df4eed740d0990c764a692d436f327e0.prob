@@ -1,0 +1,1 @@
+{"name":"Local: SimpleGame","url":"d:\\Python\\SimpleGame.py","tests":[{"id":1648211791173,"input":"OOX\nOXX\nXXO","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Python\\SimpleGame.py","group":"local","local":true}

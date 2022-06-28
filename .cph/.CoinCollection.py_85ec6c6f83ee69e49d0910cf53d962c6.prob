@@ -1,0 +1,1 @@
+{"name":"Local: CoinCollection","url":"d:\\Python\\CoinCollection.py","tests":[{"id":1648209392006,"input":"5\nNNNNN\nNNNNN\nNNCCC\nNNCCN\nNCNCN","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Python\\CoinCollection.py","group":"local","local":true}

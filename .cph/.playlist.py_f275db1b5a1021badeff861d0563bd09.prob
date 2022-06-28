@@ -1,0 +1,1 @@
+{"name":"Local: playlist","url":"d:\\Python\\playlist.py","tests":[{"id":1650025606584,"input":"5\n4\n2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Python\\playlist.py","group":"local","local":true}
