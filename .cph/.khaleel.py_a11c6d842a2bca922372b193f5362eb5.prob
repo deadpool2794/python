@@ -1,0 +1,1 @@
+{"name":"Local: khaleel","url":"d:\\Python\\khaleel.py","tests":[{"id":1661579306783,"input":"3\n5\n10\n15\n30\n","output":""},{"id":1661579732364,"input":"amile emile\n1\nmike","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Python\\khaleel.py","group":"local","local":true}

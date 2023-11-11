@@ -1,0 +1,1 @@
+{"name":"Local: jagadish","url":"d:\\Python\\jagadish.py","tests":[{"id":1665326296470,"input":"4\n3\n10 \n40 \n100","output":""},{"id":1665326971447,"input":"6\n3\n9\n10\n1\n30\n40","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Python\\jagadish.py","group":"local","local":true}
